@@ -31,7 +31,7 @@ CIFAR-10 (60,000 images, 10 classes)
 - `lvl1ml.pdf`: Colab Containing Level 1 Code
 - `Untitled9.ipynb`: Colab notebook containing Level 2 code
 - `Level 3.ipynb`: Colab notebook containing Leve 3 code
-- `lvl4cefar10.ipynb`: olab notebook containing Leve 4 code
+- `lvl4cefar10.ipynb`: Colab notebook containing Leve 4 code
 
 ## How to Run
 Open the notebook in Google Colab and run all cells top to bottom.
