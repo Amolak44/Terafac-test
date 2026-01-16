@@ -13,7 +13,7 @@ CIFAR-10 (60,000 images, 10 classes)
 - Level 2: Data Augmentation & Regularization (93.35%)
 
 ## Files
-lvl1ml.pdf : Colab Containing Level 1 Code
+- `lvl1ml.pdf`: Colab Containing Level 1 Code
 - `Untitled9.ipynb`: Colab notebook containing Level 2 code
 
 ## How to Run
