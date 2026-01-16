@@ -1,2 +1,22 @@
-# Terafac-test
-terafac test
+# CIFAR-10 Image Classification – ML Hiring Challenge
+
+## Dataset
+CIFAR-10 (60,000 images, 10 classes)
+
+## Framework
+- PyTorch
+- torchvision
+- Google Colab (GPU)
+
+## Levels Completed
+- Level 1: Baseline ResNet-18 (Test Accuracy: 92.16%)
+- Level 2: Data Augmentation & Regularization (in progress / completed)
+
+## Files
+- `level_1_2_cifar10.ipynb`: Colab notebook containing Level 1 and Level 2 code
+
+## How to Run
+Open the notebook in Google Colab and run all cells top to bottom.
+
+## Notes
+This repository is part of a multi-level ML hiring assessment.
