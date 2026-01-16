@@ -10,10 +10,10 @@ CIFAR-10 (60,000 images, 10 classes)
 
 ## Levels Completed
 - Level 1: Baseline ResNet-18 (Test Accuracy: 92.16%)
-- Level 2: Data Augmentation & Regularization (in progress / completed)
+- Level 2: Data Augmentation & Regularization (93.35%)
 
 ## Files
-- `level_1_2_cifar10.ipynb`: Colab notebook containing Level 1 and Level 2 code
+- `Untitled9.ipynb`: Colab notebook containing Level 1 and Level 2 code
 
 ## How to Run
 Open the notebook in Google Colab and run all cells top to bottom.
