@@ -12,10 +12,10 @@ CIFAR-10 (60,000 images, 10 classes)
 - Level 1: Baseline ResNet-18 (Test Accuracy: 92.16%)
 - Level 2: Data Augmentation & Regularization (93.35%)
 - Level 3:Model Explainability & Analysis
-  Used Grad-CAM to visualize class-discriminative regions
-  Heatmaps highlight object-focused regions influencing predictions
-  Confusion matrix shows strong diagonal dominance
-  Minor confusion observed between visually similar classes (e.g., cat and dog)
+  `Used Grad-CAM to visualize class-discriminative regions`
+  `Heatmaps highlight object-focused regions influencing predictions`
+  `Confusion matrix shows strong diagonal dominance`
+  `Minor confusion observed between visually similar classes (e.g., cat and dog)`
 
 
 ## Files
